@@ -83,6 +83,18 @@ hr.soliduno{
 
 }
 
+.o-title, .o-description {
+  color: #2980b9;
+}
+
+.o-title {
+  text-transform: uppercase;
+}
+
+.o-title span, .o-description span {
+  color: #8e44ad;
+}
+
 
 
 
